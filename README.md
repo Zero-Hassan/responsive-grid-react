@@ -16,7 +16,6 @@ npm install --save responsive-grid-react
 import React, { Component } from 'react'
 
 import {Grid} from 'responsive-grid-react'
-import 'responsive-grid-react/dist/index.css'
 
 class Example extends Component {
   render() {
