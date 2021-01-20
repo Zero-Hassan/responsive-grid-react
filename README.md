@@ -31,4 +31,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [Hassan zerouali kouhihal](https://github.com/Hassan zerouali kouhihal)
+MIT © [Hassan Zerouali Kouhihal](https://github.com/Zero-Hassan)

@@ -1,10 +1,21 @@
 {
   "name": "responsive-grid-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a responsive grid system created on react and css-grid",
   "author": "Hassan zerouali kouhihal",
   "license": "MIT",
-  "repository": "https://github.com/Zero-Hassan/react-grid-system.git",
+  "repository": "https://github.com/Zero-Hassan/responsive-grid-react.git",
+  "keywords": [
+    "react",
+    "react-component",
+    "grid",
+    "grid-template",
+    "grid-box"
+  ],
+  "bugs": {
+    "url": "https://github.com/Zero-Hassan/responsive-grid-react/issues"
+  },
+  "homepage": "devwebapps.com",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
