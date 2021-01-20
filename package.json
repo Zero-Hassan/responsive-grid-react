@@ -1,7 +1,7 @@
 {
   "name": "responsive-grid-react",
-  "version": "1.0.0",
-  "description": "a responsive grid system craeted on react and css-grid",
+  "version": "1.0.2",
+  "description": "a responsive grid system created on react and css-grid",
   "author": "Hassan zerouali kouhihal",
   "license": "MIT",
   "repository": "https://github.com/Zero-Hassan/react-grid-system.git",
